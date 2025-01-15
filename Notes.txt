@@ -1,0 +1,7 @@
+1.  for running class based test with setup_method and teardown_method we have to run like
+    file_name -s      -> -s is setup
+
+2.  pytest.fixtures are constants which we can define and pass them in the test_functions see test_rectangle.py for it
+
+3. if you want to store fixtures in a separate file then create a file named conftest.py and store all the fixtures there
+
