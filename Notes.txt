@@ -6,3 +6,5 @@
 3. if you want to store fixtures in a separate file then create a file named conftest.py and store all the fixtures there
 
 4. we can pass lot of parameter to test the functions called parameterized see test_square.py
+
+5. we can mock or mimic the real scenarios using the mock.patch for reference test_service.py
