@@ -35,7 +35,7 @@ Make sure you have the following installed:
 ### Running Tests
 ```bash
 pytest
-
+---
 
 
 Here’s the README formatted for GitHub Markdown. You can copy and paste this directly into your README file:
@@ -81,26 +81,27 @@ Make sure you have the following installed:
 ```bash
 pytest
 Run this in your terminal to execute all the tests in the repo. 🎯
-
+--- 
 ## 🤓 Learning Resources
 ### Here are some resources that helped me on this journey:
 
 - 📖 Pytest Documentation
 - 📺 YouTube Tutorials
 - 🧑‍💻 Blog Articles
-
+---
 ## 🏆 Goals
  - Understand the basics of Pytest.
  - Write clean and maintainable test cases.
  - Explore advanced Pytest features.
  - Master parameterized tests.
-
+---
 ## 🤝 Contributing
 ### Found something interesting to add? Want to fix a bug? Feel free to open a PR or file an issue. Contributions are always welcome! 💖
 
-
+---
 ## 🌟 Acknowledgments
 ### Big thanks to the Python and Pytest communities for their amazing resources and support! 🙌
+---
 
 ## 🧑‍💻 Author
  ### Ravindra Yadav
