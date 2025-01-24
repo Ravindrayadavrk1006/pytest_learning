@@ -32,9 +32,8 @@ Make sure you have the following installed:
 - 🐍 Python (>=3.7)
 - 📦 Pytest (`pip install pytest`)
 
-### Running Tests
-```bash
-pytest
+## Running Tests
+```bash pytest ```
 ---
 
 
